@@ -1,0 +1,56 @@
+/* The navigation bar */
+body {margin:0;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: royalblue;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+li.name a {
+    
+    background-color: gold;
+    border-right: solid; 
+    border-right-color: royalblue;
+    color: royalblue;
+}
+
+li a:hover {
+    color: gold;
+}
+
+li.name a:hover {
+    color: royalblue;
+}
+
+li.selected a{
+    border-top: solid;
+    border-top-color: gold;
+    border-bottom: solid;
+    border-bottom-color: gold;
+    color: gold;
+
+}
+
+/* Main content */
+div.main {
+   /* margin-top: ; /* Add a top margin to avoid content overlay */
+}
