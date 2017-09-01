@@ -1,27 +1,37 @@
-E:\Traffic\TrafficGame4\TrafficGame4\bin\Debug\TrafficGame4.exe.config
-E:\Traffic\TrafficGame4\TrafficGame4\bin\Debug\TrafficGame4.exe
-E:\Traffic\TrafficGame4\TrafficGame4\bin\Debug\TrafficGame4.pdb
-E:\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.csprojResolveAssemblyReference.cache
-E:\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.Properties.Resources.resources
-E:\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.csproj.GenerateResource.Cache
-E:\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.exe
-E:\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.pdb
-G:\Traffic\TrafficGame4\TrafficGame4\bin\Debug\TrafficGame4.exe.config
-G:\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.exe
-G:\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.pdb
-E:\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.Form1.resources
-G:\Traffic\TrafficGame4\TrafficGame4\bin\Debug\TrafficGame4.exe
-G:\Traffic\TrafficGame4\TrafficGame4\bin\Debug\TrafficGame4.pdb
-G:\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.csprojResolveAssemblyReference.cache
-G:\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.Form1.resources
-G:\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.Properties.Resources.resources
-G:\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.csproj.GenerateResource.Cache
-C:\Users\smidges\Documents\Stuff from old Computer\Traffic\TrafficGame4\TrafficGame4\bin\Debug\TrafficGame4.exe.config
-C:\Users\smidges\Documents\Stuff from old Computer\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.exe
-C:\Users\smidges\Documents\Stuff from old Computer\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.pdb
-C:\Users\smidges\Documents\Stuff from old Computer\Traffic\TrafficGame4\TrafficGame4\bin\Debug\TrafficGame4.exe
-C:\Users\smidges\Documents\Stuff from old Computer\Traffic\TrafficGame4\TrafficGame4\bin\Debug\TrafficGame4.pdb
-C:\Users\smidges\Documents\Stuff from old Computer\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.Form1.resources
-C:\Users\smidges\Documents\Stuff from old Computer\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.Properties.Resources.resources
-C:\Users\smidges\Documents\Stuff from old Computer\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.csproj.GenerateResource.Cache
-C:\Users\smidges\Documents\Stuff from old Computer\Traffic\TrafficGame4\TrafficGame4\obj\Debug\TrafficGame4.csprojResolveAssemblyReference.cache
+E:/Traffic/TrafficGame4/TrafficGame4/bin/Debug/TrafficGame4.exe.config
+E:/Traffic/TrafficGame4/TrafficGame4/bin/Debug/TrafficGame4.exe
+E:/Traffic/TrafficGame4/TrafficGame4/bin/Debug/TrafficGame4.pdb
+E:/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.csprojResolveAssemblyReference.cache
+E:/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.Properties.Resources.resources
+E:/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.csproj.GenerateResource.Cache
+E:/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.exe
+E:/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.pdb
+G:/Traffic/TrafficGame4/TrafficGame4/bin/Debug/TrafficGame4.exe.config
+G:/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.exe
+G:/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.pdb
+E:/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.Form1.resources
+G:/Traffic/TrafficGame4/TrafficGame4/bin/Debug/TrafficGame4.exe
+G:/Traffic/TrafficGame4/TrafficGame4/bin/Debug/TrafficGame4.pdb
+G:/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.csprojResolveAssemblyReference.cache
+G:/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.Form1.resources
+G:/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.Properties.Resources.resources
+G:/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.csproj.GenerateResource.Cache
+C:/Users/smidges/Documents/Stuff from old Computer/Traffic/TrafficGame4/TrafficGame4/bin/Debug/TrafficGame4.exe.config
+C:/Users/smidges/Documents/Stuff from old Computer/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.exe
+C:/Users/smidges/Documents/Stuff from old Computer/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.pdb
+C:/Users/smidges/Documents/Stuff from old Computer/Traffic/TrafficGame4/TrafficGame4/bin/Debug/TrafficGame4.exe
+C:/Users/smidges/Documents/Stuff from old Computer/Traffic/TrafficGame4/TrafficGame4/bin/Debug/TrafficGame4.pdb
+C:/Users/smidges/Documents/Stuff from old Computer/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.Form1.resources
+C:/Users/smidges/Documents/Stuff from old Computer/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.Properties.Resources.resources
+C:/Users/smidges/Documents/Stuff from old Computer/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.csproj.GenerateResource.Cache
+C:/Users/smidges/Documents/Stuff from old Computer/Traffic/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.csprojResolveAssemblyReference.cache
+/Users/nicksmider/Documents/Personal/TrafficGame4/TrafficGame4/bin/Debug/TrafficGame4.exe.config
+/Users/nicksmider/Documents/Personal/TrafficGame4/TrafficGame4/bin/Debug/TrafficGame4.exe
+/Users/nicksmider/Documents/Personal/TrafficGame4/TrafficGame4/bin/Debug/TrafficGame4.pdb
+/Users/nicksmider/Documents/Personal/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.csprojResolveAssemblyReference.cache
+/Users/nicksmider/Documents/Personal/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.Form1.resources
+/Users/nicksmider/Documents/Personal/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.Properties.Resources.resources
+/Users/nicksmider/Documents/Personal/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.csproj.GenerateResource.Cache
+/Users/nicksmider/Documents/Personal/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.csproj.CoreCompileInputs.cache
+/Users/nicksmider/Documents/Personal/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.exe
+/Users/nicksmider/Documents/Personal/TrafficGame4/TrafficGame4/obj/Debug/TrafficGame4.pdb
